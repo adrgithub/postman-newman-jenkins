@@ -1,0 +1,15 @@
+{
+  "name": "newman-postman-api",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "api-tests-production": "newman run Placeholder.com.postman_collection"
+  },
+  "author": "ADR",
+  "dependencies": {
+    "newman": "^4.3.1"
+  }
+}
